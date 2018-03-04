@@ -1,12 +1,12 @@
 Hivy
 ====
 
-[![Latest Version](https://pypip.in/v/hivy/badge.png)](https://pypi.python.org/pypi/hivy/)
+[![Latest Version](https://img.shields.io/pypi/v/hivy.svg)](https://pypi.python.org/pypi/hivy/)
 [![Build Status](https://drone.io/github.com/hivetech/hivy/status.png)](https://drone.io/github.com/hivetech/hivy/latest)
 [![Coverage Status](https://coveralls.io/repos/hivetech/hivy/badge.png)](https://coveralls.io/r/hivetech/hivy)
 [![Code Health](https://landscape.io/github/hivetech/hivy/master/landscape.png)](https://landscape.io/github/hivetech/hivy/master)
 [![Requirements Status](https://requires.io/github/hivetech/hivy/requirements.png?branch=master)](https://requires.io/github/hivetech/hivy/requirements/?branch=master)
-[![License](https://pypip.in/license/hivy/badge.png)](https://pypi.python.org/pypi/hivy/)
+[![License](https://img.shields.io/pypi/l/hivy.svg)](https://pypi.python.org/pypi/hivy/)
 
 > Unide Hive controller
 
